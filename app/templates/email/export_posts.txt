@@ -1,0 +1,7 @@
+Hello {{ user.username }},
+
+We have attached the archive of your posts that you requested.
+
+Best regards,
+
+Synvitational Services 
